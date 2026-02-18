@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hedvig+Letters+Serif+&duration=6000&pause=1000&random=false&width=800&height=85&lines=Hi,+I'm+Sebastian+Oliva;CS+@+ITESM;Active+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hedvig+Letters+Serif+&duration=6000&pause=1000&random=false&width=800&height=85&lines=Hi,+I'm+Sebastian+Oliva;CS+@+ITESM;Active+Learner%2F" alt="Typing SVG" /></a>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 I'm into projects that mix software and hardware — from building webpages and smart devices, to experiment computing statistics and probabilities. Right now I’m exploring machine learning, data science, and always open to learn new things.
